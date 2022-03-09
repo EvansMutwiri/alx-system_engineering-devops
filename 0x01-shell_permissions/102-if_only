@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ u -eq guillaume ] then chown betty hello fi
+if [ u = guillaume ] then chown betty hello fi
