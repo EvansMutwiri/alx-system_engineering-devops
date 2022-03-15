@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ o=guillaume ] then chown --from=guillaume betty hello fi
+if [ o=guillaume ] then chown --from=guillaume betty ./hello
